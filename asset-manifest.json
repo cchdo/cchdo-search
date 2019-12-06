@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/cchdo-search/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/cchdo-search/static/js/main.30bb7dfe.chunk.js",
+    "main.js.map": "/cchdo-search/static/js/main.30bb7dfe.chunk.js.map",
+    "runtime-main.js": "/cchdo-search/static/js/runtime-main.51953335.js",
+    "runtime-main.js.map": "/cchdo-search/static/js/runtime-main.51953335.js.map",
+    "static/css/2.bcae27ca.chunk.css": "/cchdo-search/static/css/2.bcae27ca.chunk.css",
+    "static/js/2.0a375546.chunk.js": "/cchdo-search/static/js/2.0a375546.chunk.js",
+    "static/js/2.0a375546.chunk.js.map": "/cchdo-search/static/js/2.0a375546.chunk.js.map",
+    "index.html": "/cchdo-search/index.html",
+    "precache-manifest.07b3e5c02a52ac68ef30c36a1214fa95.js": "/cchdo-search/precache-manifest.07b3e5c02a52ac68ef30c36a1214fa95.js",
+    "service-worker.js": "/cchdo-search/service-worker.js",
+    "static/css/2.bcae27ca.chunk.css.map": "/cchdo-search/static/css/2.bcae27ca.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/cchdo-search/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.0a375546.chunk.js.LICENSE": "/cchdo-search/static/js/2.0a375546.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.51953335.js",
+    "static/css/2.bcae27ca.chunk.css",
+    "static/js/2.0a375546.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.30bb7dfe.chunk.js"
+  ]
+}
